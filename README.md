@@ -2,15 +2,6 @@
 
 A comprehensive full-stack web application for managing medical store operations with separate interfaces for customers and administrators.
 
-## 👥 Team Members
-
-Himanshu Raj [@rahisenpai](https://www.github.com/rahisenpai)<br />
-Parth Rastogi [@parthrastogicoder](https://www.github.com/parthrastogicoder)<br />
-Shagun Yadav [@kyukuu](https://www.github.com/kyukuu)<br />
-Tanish Verma [@VerTanish](https://www.github.com/VerTanish)
-
-**Course**: CSE202 - Fundamentals of Database Management System (Winter 2024), IIIT Delhi
-
 ## 🚀 Features
 
 ### Customer Features
@@ -162,7 +153,7 @@ The system uses a relational database with the following main entities:
 ### Sample Customer Accounts
 | Email | Password | Name |
 |-------|----------|------|
-| rahul@example.com | password123 | Rahul Kumar |
+| shreyashi@example.com | password123 | Shreyashi Kumar |
 | priya@example.com | password456 | Priya Sharma |
 | amit@example.com | password789 | Amit Patel |
 
